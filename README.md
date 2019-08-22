@@ -11,5 +11,5 @@ An optimized union and find algorithm to be used in maximum spanning tree algori
 * Dijstra’s with heap
 * Maximum spanning tree with Kruskal’s algorithm
 
-A detailed explanation for the project can be found at [Project Description](). The code can be found at [Code](). And the final report for this
-project can be found at [Project Report]()
+A detailed explanation for the project can be found at [Project Description](https://github.com/ShashankKamath/CSCE_629_Analysis-of-Algorithms/blob/master/Project Definition.pdf). The code can be found at [Code](https://github.com/ShashankKamath/CSCE_629_Analysis-of-Algorithms/blob/master/Algo_Project.ipynb). And the final report for this
+project can be found at [Project Report](https://github.com/ShashankKamath/CSCE_629_Analysis-of-Algorithms/blob/master/Project_Report.pdf)
